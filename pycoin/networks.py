@@ -41,6 +41,8 @@ NETWORKS = (
     NetworkValues("Myriadcoin", "mainnet", "MYR", b'\xb2', b'\x32', b'\x09', h2b('0488ADE4'), h2b('0488B21E')),
 
     NetworkValues("Unobtanium", "mainnet", "UNO", b'\xe0', b'\x82', b'\x1e', h2b('0488ADE4'), h2b('0488B21E')),
+    
+    NetworkValues("Saffroncoin", "mainnet", "SFR", b'\xb1', b'\x3f', b'\x09', h2b('0488ADE4'), h2b('0488B21E')),
 
 )
 
