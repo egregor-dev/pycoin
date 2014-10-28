@@ -2,10 +2,10 @@
 import binascii
 
 MAINNET = dict(
-    MAGIC_HEADER=binascii.unhexlify('F9BEB4D9'),
+    MAGIC_HEADER=binascii.unhexlify('CF0567EA'),
     DNS_BOOTSTRAP=[
-        "seed.bitcoin.sipa.be", "dnsseed.bitcoin.dashjr.org"
-        "bitseed.xf2.org", "dnsseed.bluematt.me",
+        "saffroncoin.com", "saffroncoin.com"
+        "182.18.175.110", "182.18.175.110",
     ]
 )
 
